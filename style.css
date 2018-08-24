@@ -1,4 +1,4 @@
-@charset "utf-8";
+﻿@charset "utf-8";
 /* CSS Document */
 
 body {
@@ -208,11 +208,11 @@ nav li a:hover, nav li .active {
 }
 
 .main-grid-item-1 {
-	height: 100%;
-	width: 100%;
-	background-image: url("shop-women.jpg");
-	background-size: cover;
-	background-position: center;
+    height: 100%;
+    width: 100%;
+    background-image: url("img/shop-women.jpg");
+    background-size: cover;
+    background-position: center;
 }
 
 .main-grid-item-2 {
@@ -233,11 +233,11 @@ nav li a:hover, nav li .active {
 }
 
 .main-grid-item-4 {
-	height: 100%;
-	width: 100%;
-	background-image: url("shop-men.jpg");
-	background-size: cover;
-	background-position: center;
+    height: 100%;
+    width: 100%;
+    background-image: url("img/shop-men.jpg");
+    background-size: cover;
+    background-position: center;
 }
 
 .text-shop {
@@ -426,15 +426,15 @@ input[type="submit"]:hover {
 }
 
 .promo-item-1 {
-	background-image: url("accessories.jpg");
-	background-size: cover;
-	background-position: center;
+    background-image: url("img/accessories.jpg");
+    background-size: cover;
+    background-position: center;
 }
 
 .promo-item-2 {
-	background-image: url("summer-sale.jpg");
-	background-size: cover;
-	background-position: center;
+    background-image: url("img/summer-sale.jpg");
+    background-size: cover;
+    background-position: center;
 }
 
 
